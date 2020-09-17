@@ -360,9 +360,9 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
-  count: true
+  enable: true
+  shortname: "my-blog-5"
+  count: false
 
 # Hypercomments
 #hypercomments_id:

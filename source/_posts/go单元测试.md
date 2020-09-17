@@ -7,6 +7,7 @@ tags:
 categories:
  - 后台开发
  - golang
+comments: true
 ---
 ## go单元测试
  
