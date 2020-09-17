@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 面向工资编程
 subtitle: ''
-description: ''
+description: '记录,总结,分享,提高'
 keywords:
-author: John Doe
-language: en
+author: 流浪海
+language: zh-Hans
 timezone: ''
 
 # URL
